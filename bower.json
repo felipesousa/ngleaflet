@@ -1,0 +1,28 @@
+{
+  "name": "ngleaflet-simple",
+  "description": "Simple directive using LeafletJS.",
+  "main": "./build/ngleaflet.min.js",
+  "authors": [
+    "Felipe Sousa"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "leaflet",
+    "angular"
+  ],
+  "moduleType": [
+  "amd"
+  ],
+  "homepage": "https://github.com/felipesousa/ngleaflet-simple.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "^0.7.7",
+    "angular": "^1.5.2"
+  }
+}
