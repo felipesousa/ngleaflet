@@ -1,6 +1,7 @@
 {
   "name": "ngleaflet-simple",
   "description": "Simple directive using LeafletJS.",
+  "version": "0.0.1",
   "main": "./build/ngleaflet.min.js",
   "authors": [
     "Felipe Sousa"

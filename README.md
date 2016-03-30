@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-bower install --save https://github.com/felipesousa/ngleaflet-simple.git
+bower install --save ngleaflet-simple
 ```
 ## Usage
 You can customize layer map using attribute `layer` in your tag map. Layer types are: `streets`, `pirates`, `ligth`, etc..
